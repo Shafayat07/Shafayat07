@@ -1,68 +1,97 @@
-# Hi there, I'm Abid! 👋
+<h1 align="center">Hi, I'm Abid 👋</h1>
 
-<img src="https://komarev.com/ghpvc/?username=Abid3R&label=Profile%20Views&color=0e75b6&style=flat" alt="Abid3R" />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=560&lines=Computer+Science+%26+Engineering+Student;Software+Developer+%26+Problem+Solver;Turning+complex+logic+into+clean+code" alt="Typing SVG" />
+  </a>
+</p>
 
-### 💻 About Me
-- 🌱 I am a passionate **Computer Science and Engineering (CSE) student** focused on building robust software, exploring core computer science concepts, and solving complex algorithmic problems.
-- 🔭 Currently sharpening my skills in Data Structures, Algorithms, Software Engineering, and System Design.
+<p align="center">
+  <a href="https://www.linkedin.com/in/shafayat-jamil-43698a291"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:shafaitjamilabid1234@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/Abid3R"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Abid3R&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 **Computer Science & Engineering** student focused on building robust software and solving complex algorithmic problems.
+- 🌱 Continuously sharpening my skills in **Data Structures, Algorithms, Software Engineering & System Design**.
+- 🛠️ I enjoy working across the stack — from low-level C/C++ to modern web apps with TypeScript & Python.
 - ⚡ Fun fact: I love transforming complex logic into clean, readable code.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🧰 Tech Stack
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abid3R&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Abid3R's GitHub Stats" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abid3R&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Abid3R&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abid3R&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| **[Epic Games Store](https://github.com/Abid3R/Epic-Games-Store-CSharp)** | An Epic Games Store–style desktop application. | `C#` `.NET` |
+| **[NBA Playoff Dashboard](https://github.com/Abid3R/nba-playoff-dashboard)** | NBA stats explorer with playoff predictions. | `Python` `Data Viz` |
+| **[F1 Frontend](https://github.com/Abid3R/f1-frontend)** | A Formula 1 web frontend. | `TypeScript` |
+| **[Crop Recommendation](https://github.com/Abid3R/Crop-Recomandation)** | Crop recommendation system for Bangladesh agriculture. | `Python` `ML` |
+| **[Doraemon Hunt](https://github.com/Abid3R/Doraemon-Hunt)** | A Doraemon-themed game built in C++. | `C++` |
+| **[Nebula Chat](https://github.com/Abid3R/nebula-chat)** | A real-time chat web application. | `Web` |
+
+---
+
+## 🤝 Connect With Me
 
 <p align="left">
-  <!-- Languages -->
-  <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  
-  <!-- Web & Backend -->
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></a>
-  
-  <!-- Tools & Databases -->
-  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>
+  <a href="https://www.linkedin.com/in/shafayat-jamil-43698a291"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:shafaitjamilabid1234@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <!-- GitHub Stats Card (private contributions included) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Abid3R&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Abid3R's GitHub Stats" />
-</p>
-
-<p align="center">
-  <!-- Streak Stats (new official domain) -->
-  <img src="https://streak-stats.demolab.com/?user=Abid3R&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abid3R&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
----
-
-### 🚀 Featured CSE Projects
-*Highlighting some of my best work:*
-
-| Project Name | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **[Your Project 1]** | *Short description (e.g., A full‑stack task management app)* | *C++, SQL* | [View Repo](https://github.com/Abid3R/repo-name) |
-| **[Your Project 2]** | *Short description (e.g., Real‑time chat application)* | *React, Node.js* | [View Repo](https://github.com/Abid3R/repo-name) |
-
-> **Replace the rows above with your actual best projects.** Pick 2‑4 repos from [your GitHub profile](https://github.com/Abid3R?tab=repositories) that showcase your skills, write a brief description, and update the links.
-
----
-
-### 📬 Connect With Me
-- **LinkedIn:** [Shafayat Jamil](https://www.linkedin.com/in/shafayat-jamil-43698a291)
-- **Email:** [shafaitjamilabid1234@gmail.com](mailto:shafaitjamilabid1234@gmail.com)
+<p align="center"><i>⭐️ From <a href="https://github.com/Abid3R">Abid3R</a> — thanks for visiting!</i></p>
