@@ -35,15 +35,18 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abid3R&show_icons=true&theme=radical&hide_border=true" alt="Abid3R's GitHub Stats" />
+  <!-- GitHub Stats Card (private contributions included) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Abid3R&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Abid3R's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abid3R&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <!-- Streak Stats (new official domain) -->
+  <img src="https://streak-stats.demolab.com/?user=Abid3R&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abid3R&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abid3R&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
