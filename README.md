@@ -53,11 +53,13 @@
 
 | Project Name | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **[Your Project 1]** | Short description of a core CSE project (e.g., Database System, OS Lab project, Compiler) | C++, SQL | [View Repo](https://github.com/Abid3R) |
-| **[Your Project 2]** | Short description of a full-stack or utility software project | React, Node.js | [View Repo](https://github.com/Abid3R) |
+| **[Your Project 1]** | *Short description (e.g., A full‑stack task management app)* | *C++, SQL* | [View Repo](https://github.com/Abid3R/repo-name) |
+| **[Your Project 2]** | *Short description (e.g., Real‑time chat application)* | *React, Node.js* | [View Repo](https://github.com/Abid3R/repo-name) |
+
+> **Replace the rows above with your actual best projects.** Pick 2‑4 repos from [your GitHub profile](https://github.com/Abid3R?tab=repositories) that showcase your skills, write a brief description, and update the links.
 
 ---
 
 ### 📬 Connect With Me
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-username)
-- **Email:** your.email@example.com
+- **LinkedIn:** [Shafayat Jamil](https://www.linkedin.com/in/shafayat-jamil-43698a291)
+- **Email:** [shafaitjamilabid1234@gmail.com](mailto:shafaitjamilabid1234@gmail.com)
