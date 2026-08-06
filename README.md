@@ -56,5 +56,5 @@
 ---
 
 ### 📬 Connect With Me
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-username)
-- **Email:** your.email@example.com
+- **LinkedIn:** [Your LinkedIn Profile]([https://linkedin.com/in/your-username](https://www.linkedin.com/in/shafayat-jamil-43698a291/))
+- **Email:** shafaitjamilabid1234@gmail.com
