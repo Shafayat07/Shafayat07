@@ -36,6 +36,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abid3R&show_icons=true&theme=radical&hide_border=true" alt="Abid3R's GitHub Stats" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abid3R&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
@@ -50,11 +53,11 @@
 
 | Project Name | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **[Your Project 1]** | Short description of a core CSE project (e.g., Database System, OS Lab project, Compiler) | C++, SQL | [View Repo](https://github.com/Abid3R/...) |
-| **[Your Project 2]** | Short description of a full-stack or utility software project | React, Node.js | [View Repo](https://github.com/Abid3R/...) |
+| **[Your Project 1]** | Short description of a core CSE project (e.g., Database System, OS Lab project, Compiler) | C++, SQL | [View Repo](https://github.com/Abid3R) |
+| **[Your Project 2]** | Short description of a full-stack or utility software project | React, Node.js | [View Repo](https://github.com/Abid3R) |
 
 ---
 
 ### 📬 Connect With Me
-- **LinkedIn:** [Your LinkedIn Profile]([https://linkedin.com/in/your-username](https://www.linkedin.com/in/shafayat-jamil-43698a291/))
-- **Email:** shafaitjamilabid1234@gmail.com
+- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-username)
+- **Email:** your.email@example.com
