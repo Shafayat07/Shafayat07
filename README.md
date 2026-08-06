@@ -60,16 +60,20 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abid3R&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Abid3R's GitHub Stats" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abid3R&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="82%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abid3R&theme=tokyonight" alt="Profile details" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Abid3R&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="41%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abid3R&theme=tokyonight" alt="Top languages" />
+  <img width="41%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abid3R&theme=tokyonight" alt="Most used language" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abid3R&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="GitHub Trophies" />
+  <img width="82%" src="https://streak-stats.demolab.com/?user=Abid3R&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="82%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abid3R&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
 </p>
 
 ---
@@ -93,5 +97,7 @@
   <a href="https://www.linkedin.com/in/shafayat-jamil-43698a291"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:shafaitjamilabid1234@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
+
+📫 **Email:** [shafaitjamilabid1234@gmail.com](mailto:shafaitjamilabid1234@gmail.com) &nbsp;•&nbsp; 💼 **LinkedIn:** [Shafayat Jamil](https://www.linkedin.com/in/shafayat-jamil-43698a291)
 
 <p align="center"><i>⭐️ From <a href="https://github.com/Abid3R">Abid3R</a> — thanks for visiting!</i></p>
