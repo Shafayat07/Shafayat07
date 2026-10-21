@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Abid 👋</h1>
+<h1 align="center">Hi, I'm Shafayat 👋</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -9,8 +9,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/shafayat-jamil-43698a291"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:shafaitjamilabid1234@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://github.com/Abid3R"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Abid3R&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+  <a href="https://github.com/Shafayat07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Shafayat07&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
 </p>
 
 ---
@@ -60,20 +60,20 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="82%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abid3R&theme=tokyonight" alt="Profile details" />
+  <img width="82%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shafayat07&theme=tokyonight" alt="Profile details" />
 </p>
 
 <p align="center">
-  <img width="41%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abid3R&theme=tokyonight" alt="Top languages" />
-  <img width="41%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abid3R&theme=tokyonight" alt="Most used language" />
+  <img width="41%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shafayat07&theme=tokyonight" alt="Top languages" />
+  <img width="41%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shafayat07&theme=tokyonight" alt="Most used language" />
 </p>
 
 <p align="center">
-  <img width="82%" src="https://streak-stats.demolab.com/?user=Abid3R&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="82%" src="https://streak-stats.demolab.com/?user=Shafayat07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="82%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abid3R&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+  <img width="82%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shafayat07&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
 </p>
 
 ---
@@ -82,12 +82,12 @@
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| **[Epic Games Store](https://github.com/Abid3R/Epic-Games-Store-CSharp)** | An Epic Games Store–style desktop application. | `C#` `.NET` |
-| **[NBA Playoff Dashboard](https://github.com/Abid3R/nba-playoff-dashboard)** | NBA stats explorer with playoff predictions. | `Python` `Data Viz` |
-| **[F1 Frontend](https://github.com/Abid3R/f1-frontend)** | A Formula 1 web frontend. | `TypeScript` |
-| **[Crop Recommendation](https://github.com/Abid3R/Crop-Recomandation)** | Crop recommendation system for Bangladesh agriculture. | `Python` `ML` |
-| **[Doraemon Hunt](https://github.com/Abid3R/Doraemon-Hunt)** | A Doraemon-themed game built in C++. | `C++` |
-| **[Nebula Chat](https://github.com/Abid3R/nebula-chat)** | A real-time chat web application. | `Web` |
+| **[Epic Games Store](https://github.com/Shafayat07/Epic-Games-Store-CSharp)** | An Epic Games Store–style desktop application. | `C#` `.NET` |
+| **[NBA Playoff Dashboard](https://github.com/Shafayat07/nba-playoff-dashboard)** | NBA stats explorer with playoff predictions. | `Python` `Data Viz` |
+| **[F1 Frontend](https://github.com/Shafayat07/f1-frontend)** | A Formula 1 web frontend. | `TypeScript` |
+| **[Crop Recommendation](https://github.com/Shafayat07/Crop-Recomandation)** | Crop recommendation system for Bangladesh agriculture. | `Python` `ML` |
+| **[Doraemon Hunt](https://github.com/Shafayat07/Doraemon-Hunt)** | A Doraemon-themed game built in C++. | `C++` |
+| **[Nebula Chat](https://github.com/Shafayat07/nebula-chat)** | A real-time chat web application. | `Web` |
 
 ---
 
@@ -100,4 +100,4 @@
 
 📫 **Email:** [shafaitjamilabid1234@gmail.com](mailto:shafaitjamilabid1234@gmail.com) &nbsp;•&nbsp; 💼 **LinkedIn:** [Shafayat Jamil](https://www.linkedin.com/in/shafayat-jamil-43698a291)
 
-<p align="center"><i>⭐️ From <a href="https://github.com/Abid3R">Abid3R</a> — thanks for visiting!</i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/Shafayat07">Shafayat07</a> — thanks for visiting!</i></p>
